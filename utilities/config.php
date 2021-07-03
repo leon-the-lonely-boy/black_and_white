@@ -1,10 +1,10 @@
 <?php
 //session_start();
 
-$dbhost = "localhost";
-$user = "root";
+$dbhost = "";
+$user = "";
 $pass = "";
-$dbname = "manga_proj";
+$dbname = "";
 
 // $dbhost = "us-cdbr-east-02.cleardb.com";
 // $user = "be9d3bc6ef6d71";
