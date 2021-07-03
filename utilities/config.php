@@ -1,10 +1,10 @@
 <?php
 //session_start();
 
-$dbhost = "";
-$user = "";
-$pass = "";
-$dbname = "";
+$dbhost = "us-cdbr-east-04.cleardb.com";
+$user = "b315cc8efc76f9";
+$pass = "60732d24";
+$dbname = "heroku_f9dfc34899b2484";
 
 // $dbhost = "us-cdbr-east-02.cleardb.com";
 // $user = "be9d3bc6ef6d71";
